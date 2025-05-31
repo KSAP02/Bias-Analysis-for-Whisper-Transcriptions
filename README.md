@@ -1,6 +1,3 @@
-from pathlib import Path
-
-readme_content = """
 # 🎙️ Bias Analysis in Whisper Transcriptions
 
 This project investigates **bias in automatic speech recognition (ASR)** systems by analyzing transcription errors from [OpenAI's Whisper](https://github.com/openai/whisper) model across various **demographic attributes** using the [Common Voice](https://commonvoice.mozilla.org/en/datasets) dataset.
