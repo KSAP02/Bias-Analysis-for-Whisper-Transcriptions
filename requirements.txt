@@ -1,0 +1,15 @@
+datasets
+pandas
+fastapi
+datasets
+ipykernel
+openai-whisper
+openai
+python-dotenv
+jiwer
+pandas
+uvicorn
+ffmpeg-python # whipser relies on ffmpeg if installed locally
+torchaudio
+seaborn
+matplotlib

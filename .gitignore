@@ -1,0 +1,12 @@
+whis_venv
+
+# Runtime-generated data
+
+# Ignore a directory and all its contents
+data/audio/  
+data/cv-corpus-21.0-delta-2025-03-14/
+
+data/metadata.csv
+data/transcriptions.csv
+
+.env
