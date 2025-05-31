@@ -36,7 +36,7 @@ We evaluate how Whisper's transcription performance varies across accents, gende
 ## 📂 Directory Structure
 
 Create a virtual environment and pip install requirement.txt
-
+```bash
 Bias-analysis-of-whisper-transcriptions/
 │
 ├── data/ # Runtime directory for audio, metadata, and outputs hid by gitignore create manually while running the notebooks
@@ -52,8 +52,7 @@ Bias-analysis-of-whisper-transcriptions/
 ├── .env # Contains OpenAI API key
 ├── .gitignore
 └── README.md
-
-
+```
 ---
 
 ## 📥 Dataset Instructions
